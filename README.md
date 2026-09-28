@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-# Hi, I'm [Mohamed Rafik] 👋
+# Hi, I'm Mohamed Rafik 👋
 **Operations Research & Machine Learning Engineer**
 
-📍 [Location] | 📧 [mez.mohamed.rafik@gmail.com] | 💼 [LinkedIn Profile Link] | 📝 [Resume Link]
+📍 [Location] | 📧 mez.mohamed.rafik@gmail.com | 💼 [LinkedIn Profile Link] | 📝 [Resume Link]
 
 ---
 
