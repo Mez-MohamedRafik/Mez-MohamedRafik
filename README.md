@@ -43,7 +43,8 @@ Master's student in Operations Research specializing in machine learning pipelin
   * Cleaned and engineered relational customer data in **MySQL** to produce structured pipeline inputs.
   * Built leak-proof, reproducible ML workflows using `Pipeline` and `ColumnTransformer`.
   * Applied **cost-sensitive threshold tuning** ($t = 0.35$) on XGBoost (`scale_pos_weight = 3.9`) to boost **churn recall to >73%**, directly minimizing customer loss and aligning predictions with business retention objectives.
-  *  **Links** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/cmapss-predictive-maintenance/blob/main/Customer_churn_RFC_pred)
+  *  **Links** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/Customer-Churn/blob/main/Customer_churn_RFC_pred.ipynb)
+  
 ---
 
 ## 🛠️ Technical Skills
