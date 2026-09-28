@@ -33,13 +33,17 @@ Master's student in Operations Research specializing in machine learning pipelin
 * **Tech:** Python, Scikit-Learn, Random Forest, Rolling Window Features, Google Colab
 * **Overview:** Predictive maintenance pipeline on NASA C-MAPSS dataset (`FD001`) estimating Remaining Useful Life (RUL).
 * **Key Results:** Achieved **RMSE = 20.84** and **MAE = 14.25** cycles using 20-cycle rolling feature transformations.
-* **Links:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/cmapss-predictive-maintenance/blob/main/YOUR_NOTEBOOK.ipynb)
+* **Links:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/cmapss-predictive-maintenance/blob/main/YOUR_NOTEBOOK.ipynb)
+  
+#### 🏦 [Bank Customer Churn & Retention Optimization](https://github.com/Mez-MohamedRafik/customer-churn-prediction)
 
-### 📊 [Project Title 2: Optimization / Graph Theory Model](https://github.com/YOUR_USERNAME/your-repo-2)
-* **Tech:** Python, NetworkX, PuLP / SciPy, MySQL
-* **Overview:** Brief 1-2 sentence description highlighting the business or engineering problem addressed.
-* **Key Results:** State the key efficiency metric, runtime improvement, or cost reduction.
-
+* **Domain:** Machine Learning | Data Engineering | Decision Optimization
+* **Tech Stack:** Python (Pandas, NumPy, Scikit-Learn, XGBoost), MySQL Workbench
+* **Highlights:**
+  * Cleaned and engineered relational customer data in **MySQL** to produce structured pipeline inputs.
+  * Built leak-proof, reproducible ML workflows using `Pipeline` and `ColumnTransformer`.
+  * Applied **cost-sensitive threshold tuning** ($t = 0.35$) on XGBoost (`scale_pos_weight = 3.9`) to boost **churn recall to >73%**, directly minimizing customer loss and aligning predictions with business retention objectives.
+  *  **Links** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mez-MohamedRafik/cmapss-predictive-maintenance/blob/main/Customer churn RFC_pred.ipynb)
 ---
 
 ## 🛠️ Technical Skills
